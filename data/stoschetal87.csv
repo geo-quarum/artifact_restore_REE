@@ -1,0 +1,11 @@
+﻿sample,source,sample_type,La,Ce,Pr,Nd,Sm,Eu,Gd,Tb,Dy,Ho,Er,Tm,Yb,Lu,LTE,exclude
+W7.0m,Stosch et al. (1987),eclogite,5.9,23.3,3.9,20,6.5,2.17,7.7,1.21,,1.55,,0.55,3.9,0.58,,
+W82.65m,Stosch et al. (1987),chlorite-plagioclase gneiss,53.3,111,,54,11.2,1.52,,1.61,,,,0.72,4.65,0.62,,
+W96.42m,Stosch et al. (1987),garnet amphibolite,6.65,19.2,,14.1,4.34,1.43,,0.84,,,,,3.48,0.54,,
+S468,Stosch et al. (1987),kyanite eclogite,2.88,5.25,0.53,2.4,0.47,1.74,,0.047,,0.063,,,0.233,0.044,,
+Mo22,Stosch et al. (1987),spinel peridotite,0.036,0.88,0.14,0.71,0.243,0.081,0.3,0.06,,0.086,,0.036,0.28,0.045,,La
+Mo22-cpx,Stosch et al. (1987),clinopyroxene,2.62,7.3,,6.25,2.14,0.78,2.6,0.46,,0.73,,,1.96,0.27,,
+Mo22-opx,Stosch et al. (1987),orthopyroxene,0.0118,0.043,,0.063,0.04,0.0205,0.09,0.0178,,0.042,,0.031,0.26,0.047,,
+cpx-mc.#1,Stosch et al. (1987),clinopyroxene,3.03,10.5,1.91,11.7,3.92,1.33,4.6,0.52,,,,,0.33,0.032,,
+cpx-mc.#2,Stosch et al. (1987),clinopyroxene,3,10.2,,10.5,4.05,1.37,4.5,0.44,,,,,0.36,,,none
+gar-mc.,Stosch et al. (1987),garnet,0.14,0.68,,1.8,1.84,1.04,5.3,1.19,,2.38,,0.86,4.9,0.63,,

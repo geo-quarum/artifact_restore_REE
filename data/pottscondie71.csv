@@ -1,0 +1,18 @@
+﻿sample,source,sample_type,La,Ce,Pr,Nd,Sm,Eu,Gd,Tb,Dy,Ho,Er,Tm,Yb,Lu,LTE,exclude
+29_ultramafite,Potts and Condie (1971),ultramafite,2.03,6.2,,5.3,1.76,0.66,2.4,0.36,,,,0.133,0.84,0.114,,
+30_ultramafite,Potts and Condie (1971),ultramafite,1.1,3.5,,3.5,1.4,0.47,1.8,0.31,,,,0.122,0.78,0.102,,Eu
+37_ultramafite,Potts and Condie (1971),ultramafite,2.08,5.8,,4.8,1.68,0.58,2.2,0.34,,,,0.167,0.87,0.114,,
+44_ultramafite,Potts and Condie (1971),ultramafite,11.2,22.6,,9.8,2.53,0.64,2.6,0.41,,,,0.128,1,0.116,,
+46_ultramafite,Potts and Condie (1971),ultramafite,0.33,1.12,,1.1,0.5,0.178,0.7,0.106,,,,0.051,0.28,0.034,,
+61_ultramafite,Potts and Condie (1971),ultramafite,2.9,7.7,,5.5,1.61,0.55,2.1,0.27,,,,0.083,0.63,0.076,,
+71_ultramafite,Potts and Condie (1971),ultramafite,0.38,1.61,,2.1,0.79,0.283,1.2,0.171,,,,0.077,0.42,0.052,,
+74_ultramafite,Potts and Condie (1971),ultramafite,1.27,3.9,,3.2,1.18,0.416,1.4,0.241,,,,0.099,0.61,0.076,,
+76_ultramafite,Potts and Condie (1971),ultramafite,0.5,1.68,,1.6,0.64,0.231,0.8,0.141,,,,0.063,0.36,0.047,,
+91_ultramafite,Potts and Condie (1971),ultramafite,0.4,1.55,,2.1,0.89,0.315,1.3,0.216,,,,0.1,0.54,0.069,,Eu
+29_clinopyroxene,Potts and Condie (1971),clinopyroxene,2.17,6.7,,5.8,2.12,0.64,2.7,0.43,,,,0.166,1.1,0.14,,
+46_clinopyroxene,Potts and Condie (1971),clinopyroxene,0.62,1.97,,2,0.88,0.321,1.2,0.195,,,,0.085,0.48,0.061,,
+71_clinopyroxene,Potts and Condie (1971),clinopyroxene,0.035,1.71,,2,0.854,0.318,1.3,0.195,,,,0.07,0.45,0.056,,"La, Eu"
+76_clinopyroxene,Potts and Condie (1971),clinopyroxene,0.87,3,,3.4,1.22,0.432,1.6,0.246,,,,0.119,0.64,0.079,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,

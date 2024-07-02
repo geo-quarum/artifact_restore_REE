@@ -1,0 +1,34 @@
+name: paper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - basemap-data
+  - basemap-data-hires
+  - conda-build
+  - geopandas
+  - hatch
+  - haversine
+  - jupyter
+  - matplotlib
+  - matplotlib-base=3.7.3
+  - numpy
+  - openpyxl
+  - pandarallel
+  - pandas
+  - pip
+  - proj
+  - pygeos
+  - pyproj
+  - pyshp
+  - pytest
+  - pytest-cov
+  - python=3.11
+  - recommonmark
+  - scikit-learn
+  - seaborn
+  - sphinx-gallery
+  - sphinx-rtd-theme
+  - xlsxwriter
+  - pyrolite
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/paper
