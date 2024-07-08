@@ -35,10 +35,6 @@ from seaborn import histplot, kdeplot
 from scipy.stats import skew, kurtosis
 import statsmodels.stats.api as sms
 
-image_save_format = ".png"
-SAMPLE = "sample"
-DEV_THRESHOLD = 1.0
-
 def make_REE_pattern_plot_series(
         real_data,
         models,
@@ -871,6 +867,18 @@ if __name__ == "__main__":
     if "DEV_THRESHOLD" in plot:
         DEV_THRESHOLD = float(plot["DEV_THRESHOLD"])
         print("DEV_THRESHOLD", DEV_THRESHOLD)
+    else:
+        DEV_THRESHOLD = 1.0
+        print("DEV_THRESHOLD", DEV_THRESHOLD)
+    if "SAMPLE" in plot:
+        SAMPLE = plot["SAMPLE"]
+    else:
+        SAMPLE = "sample"
+    if "IMAGE_SAVE_FORMAT" in plot:
+        image_save_format = plot["IMAGE_SAVE_FORMAT"]
+    else:
+        image_save_format = ".png"
+
     make_plots_config(
         plot["real_data_infile"],
         plot["model_data_infile"],
