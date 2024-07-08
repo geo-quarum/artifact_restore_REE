@@ -38,19 +38,19 @@ def keep_only_colmuns(df, columns):
 original_data = read_df("./data/PetDB240122_mafic_ultramafic_cleared.csv")
 inaa = original_data.copy()
 inaa = make_columns_none(inaa, ["Pr", "Dy", "Ho", "Er"])
-inaa.to_csv("./data/PetDB240122_mafic_ultramafic_cleared_naa.csv", index_label=False)
+inaa.to_csv("./data/PetDB240122_mafic_ultramafic_cleared_naa.csv", index=False)
 
 inaa_stepwise = original_data.copy()
 inaa_stepwise = make_columns_none(inaa_stepwise,["Pr"])
-inaa_stepwise.to_csv("./data/PetDB240122_mafic_ultramafic_cleared_nan_Pr.csv", index_label=False)
+inaa_stepwise.to_csv("./data/PetDB240122_mafic_ultramafic_cleared_nan_Pr.csv", index=False)
 inaa_stepwise = make_columns_none(inaa_stepwise,["Dy"])
-inaa_stepwise.to_csv("./data/PetDB240122_mafic_ultramafic_cleared_nan_Pr_Dy.csv", index_label=False)
+inaa_stepwise.to_csv("./data/PetDB240122_mafic_ultramafic_cleared_nan_Pr_Dy.csv", index=False)
 inaa_stepwise = make_columns_none(inaa_stepwise,["Ho"])
-inaa_stepwise.to_csv("./data/PetDB240122_mafic_ultramafic_cleared_nan_Pr_Dy_Ho.csv", index_label=False)
+inaa_stepwise.to_csv("./data/PetDB240122_mafic_ultramafic_cleared_nan_Pr_Dy_Ho.csv", index=False)
 
 id = original_data.copy()
 id = make_columns_none(id, ["Pr", "Tb", "Ho", "Tm"])
-id.to_csv("./data/PetDB240122_mafic_ultramafic_cleared_id.csv", index_label=False)
+id.to_csv("./data/PetDB240122_mafic_ultramafic_cleared_id.csv", index=False)
 
 prefix = "./PetDB240122_mafic_ultramafic_cleared"
 configs = "./data/configs"
